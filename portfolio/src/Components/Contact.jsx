@@ -20,7 +20,7 @@ export const Contact = () => {
             type="text"
             id="name"
             className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5"
-            placeholder="John Doe"
+            placeholder="Sudhansh Tripathi"
             required
           />
         </div>
@@ -54,7 +54,7 @@ export const Contact = () => {
             id="message"
             rows="5"
             className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5"
-            placeholder="Write your message here..."
+            placeholder="Write your message here... "
             required
           ></textarea>
         </div>

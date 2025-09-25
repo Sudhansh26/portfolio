@@ -6,19 +6,19 @@ export const Education = () => {
       year: "2027",
       degree: "B.Tech in Artificial Intelligence & Data Science",
       college: "Thakur College of Engineering & Technology",
-      grade: "CGPA: 9.45/10",
+      grade: "CGPA: 8.28/10",
     },
     {
       year: "2023",
       degree: "Senior Secondary",
-      college: "K.J Somaiya College of Science and Commerce",
-      grade: "Grade: 75.33%",
+      college: "Sardar Vallabhbhai Patel Vidyalaya Junior College(Senior secondary)",
+      grade: "Grade: 70%",
     },
     {
       year: "2021",
       degree: "Secondary",
-      college: "Shreerang Vidyalaya Eng Med & Jr. College",
-      grade: "Grade: 91.60%",
+      college: "St. Francis High School(secondary)",
+      grade: "Grade: 83.20%",
     },
   ];
 
@@ -56,7 +56,7 @@ export const Education = () => {
                 {edu.year}
               </time>
               <p className="text-base text-gray-700">
-                🏫 {edu.college}
+                {edu.college}
               </p>
               <p className="text-base font-normal text-gray-500">
                 {edu.grade}

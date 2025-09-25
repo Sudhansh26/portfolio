@@ -1,11 +1,12 @@
 export const Contact = () => {
   return (
     <>
-    <h3 className="text-center text-2xl"> Contact Me </h3>
+   
     <section id="contact" className="py-10 px-4 mb-8 md:px-20 bg-gray-100">
       <h2 className="text-4xl font-bold text-center mb-8 text-black">
-        Fill this to reach out to me
+        Contact Me
       </h2>
+      <h3 className="text-center text-2xl">  Fill this to reach out to me </h3>
 
       <form className="max-w-lg mx-auto bg-white p-8 rounded-2xl shadow-lg">
        

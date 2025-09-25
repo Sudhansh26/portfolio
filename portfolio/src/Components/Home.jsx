@@ -32,7 +32,7 @@ export const Home = () => {
      
       <div className="absolute top-1/2 left-4 transform -translate-y-1/2 flex flex-col gap-2.5">
         <a
-          href="https://github.com/SudhnashTripathi"
+          href="https://github.com/Sudhansh26"
           target="_blank"
           rel="noopener noreferrer"
           className="w-10 h-10 flex items-center justify-center rounded-full bg-gray-800 text-white hover:bg-gray-700 transition"
@@ -42,7 +42,7 @@ export const Home = () => {
         </a>
 
         <a
-          href="https://linkedin.com/in/SudhnashTripathi"
+          href="https://www.linkedin.com/in/sudhansh-tripathi-58ba232b5/"
           target="_blank"
           rel="noopener noreferrer"
           className="w-10 h-10 flex items-center justify-center rounded-full bg-blue-700 text-white hover:bg-blue-600 transition"
@@ -52,7 +52,7 @@ export const Home = () => {
         </a>
 
         <a
-          href="mailto:sudhnash@example.com"
+          href="sudhanshtripathi26@gmail.com"
           className="w-10 h-10 flex items-center justify-center rounded-full bg-red-600 text-white hover:bg-red-500 transition"
           title="Email"
         >
